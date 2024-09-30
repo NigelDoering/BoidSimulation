@@ -63,7 +63,8 @@ A Python-based Boid Simulation demonstrating flocking behaviors using Tkinter, N
 </li>
 
 `conda env create -f environment.yml`
-
+or if(above doesn't work)
+`conda create -n <environment-name> --file req.txt`
 <li>
 
 **Activate the environment**
@@ -76,7 +77,7 @@ A Python-based Boid Simulation demonstrating flocking behaviors using Tkinter, N
 
 **Run the environment.**
 
-`python boid_simulation.py`
+`python boidv4.py`
 </li>
 </ol>
 
