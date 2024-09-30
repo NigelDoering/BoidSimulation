@@ -1,4 +1,4 @@
-name: boids
+name: boid-env
 channels:
   - cogsci
   - defaults
