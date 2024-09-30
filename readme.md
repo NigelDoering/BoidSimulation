@@ -94,3 +94,18 @@ Once you've configured your flocks and parameters, click the "Export CSV" button
 The data will be saved as boid_simulation_data.csv inside the data directory of your project.
 
 </ol>
+
+# Resetting the Simulation
+
+To reset the simulation to its initial state:
+<ol>
+<li>
+Click the "Reset" button in the GUI.
+</li>
+<li>
+Confirm the action when prompted.
+</li>
+<li>
+All existing flocks will be cleared, and the simulation will be ready for new configurations.
+</li>
+</ol>
