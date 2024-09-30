@@ -1,19 +1,41 @@
 # Boid Simulation
 A Python-based Boid Simulation demonstrating flocking behaviors using Tkinter, NumPy, and Pandas. This simulation allows users to create multiple flocks with customizable parameters and export simulation data for further analysis.
 
-## Features
+# Features
+<ul>
+<li>
+
 **Multiple Flocks:** Add and customize multiple flocks with different colors, sizes, and behaviors.
 **Movement:** Boids exhibit separation, alignment, and cohesion behaviors.
-**Edge Bouncing**: Boids bounce off the edges of the simulation window for realistic boundary interactions.
-**Data Export:** Export simulation data to CSV files for analysis.
-**User-Friendly GUI:** Intuitive interface built with Tkinter for easy interaction and customization.
+</li>
 
-## Prequisite
+<li>
+
+**Edge Bouncing**: Boids bounce off the edges of the simulation window for realistic boundary interactions.
+
+</li>
+<li>
+
+**Data Export:** Export simulation data to CSV files for analysis.
+</li>
+<li>
+
+**User-Friendly GUI:** Intuitive interface built with Tkinter for easy interaction and customization.
+</li>
+
+</ul>
+
+# Prerequisite
 <ul>
 <li>
 
 **Conda**
 
+</li>
+
+<li>
+
+**Python**
 </li>
 </ul>
 
@@ -58,3 +80,17 @@ A Python-based Boid Simulation demonstrating flocking behaviors using Tkinter, N
 </li>
 </ol>
 
+# Export Data
+
+To export the simulation data to a CSV file within the data folder:
+
+<ol>
+<li> Run the simulation.
+</li>
+<li>
+Once you've configured your flocks and parameters, click the "Export CSV" button in the GUI.
+</li>
+<li>
+The data will be saved as boid_simulation_data.csv inside the data directory of your project.
+
+</ol>
