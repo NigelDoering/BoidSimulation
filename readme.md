@@ -32,7 +32,4 @@ A Python-based Boid Simulation demonstrating flocking behaviors using Tkinter, N
 **Clone the repository.**
 
 </li>
-
 `git clone <repository url>`
-<li>
-</ol>
